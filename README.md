@@ -12,8 +12,8 @@ How to run file
 ---------------
 
 Please just run **SolarSystem.html** file only in either: 
-	*	FireFox
-	*	Internet Explorer 
+	* FireFox
+	* Internet Explorer 
 
 How to play
 -----------
@@ -21,7 +21,8 @@ How to play
 Please click, hold and drag the mouse to have a different camera scene.
 And also use the fov control panel for zooming in/out.
 
+
 Thanks you and enjoy.
 
 
-Nana Baah.
+Nana O. Baah.
