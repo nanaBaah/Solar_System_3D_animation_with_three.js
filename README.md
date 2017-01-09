@@ -21,5 +21,7 @@ How to play
 Please click, hold and drag the mouse to have a different camera scene.
 And also use the fov control panel for zooming in/out.
 
+Author
+------
 
 Nana O. Baah.
