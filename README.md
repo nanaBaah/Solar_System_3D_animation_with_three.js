@@ -6,7 +6,7 @@ This a *3D rendering of the Solar System* in Javascript (Three.js)
 Source Code
 -----------
 
-Three.js and other relevant minified source code has also been included in this project.
+Apart from my source code, Three.js and other relevant minified source code has also been included in this project.
 
 How to run file
 ---------------
