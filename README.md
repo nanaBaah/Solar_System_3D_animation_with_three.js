@@ -1,10 +1,13 @@
 Solar System Project in Three.js 
 =================================
 
-This a 3D rendering of the Solar System in Javascript (Three.js)
+This a *3D rendering of the Solar System* in Javascript (Three.js)
+
+How to run file
+---------------
 
 In order to view what I have done,
-Please just play "SolarSystem.html" file only in 
+Please just run "SolarSystem.html" file only in 
 either 
 	FireFox
 	Internet Explorer 
